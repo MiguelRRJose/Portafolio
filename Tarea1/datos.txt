@@ -1,0 +1,45 @@
+Datos a poner en la pagina web
+
+    - Nombre, Apellido. * Pagina 1
+    - Breve descripción personal. * Pagina 1
+    - Datos generales. * Pagina 1
+    - Carnet. * Pagina 2
+    - Año de estudio. * Pagina 2
+    - Carrera. * Pagina 2
+    - Correo. * Pagina 2
+    - Github. * Pagina 2
+    - Habilidades y conocimientos.
+    - Nivel académico (pre grado, grado, inglés, cursos, etc). * Pagina 2
+    - Experiencia laboral. * Pagina 1
+    - Intereses y hobbies.
+    - Incluya imágenes ilustrativas, vídeos y enlaces externos.
+  
+Forma de estructurarlo:
+
+Pagina principal: 
+Index{
+
+    opciones:
+    1. Titulo: Informacion personal (Pagina 1)
+     - Nombre, apellido
+     - Descripcion personal
+     - Datos generales
+     - Experiencia Laboral
+    
+    2. Titulo: Estudios (Pagina 2)
+     - Año de estudio
+     - carnet
+     - correo
+     - Carrera
+     - Github
+     - Nivel academico
+
+    3. Titulo: Extras (Pagina 3)
+     - Habilidades y conocimiento
+     - Intereses y hobbies
+     - Imagenes, videos y enlaces externos
+
+
+
+
+}
